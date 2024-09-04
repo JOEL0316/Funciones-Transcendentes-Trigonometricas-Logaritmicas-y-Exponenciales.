@@ -2,7 +2,7 @@
 %Title             :Funciones transcendentes:
 %Description       :Script para graficar funciones Trnscendentes
 %                  :Trigonometricas,Logaritmica,Exponenciales.
-%Author            :Joel Emmanuel De La Cruz Rodriguez      
+%Author            :Joel Emmanuel De La Cruz Rodriguez
 %Date              :2021_11_23
 %Version           :1
 %Usage             :C:\Users\Leo\Documents\DocumentosOctave
@@ -15,7 +15,7 @@ clear
 
 pkg load symbolic
 syms r
-#Ejercicio 1°
+#Ejercicio 1Â°
 %Dominio de la funcion ..............
 r = -30:1:30;
 %Regla de correspondencia
@@ -30,7 +30,7 @@ legend(" Funcion Subrayectiva");
 
 
 syms x
-#Ejercicio 2°
+#Ejercicio 2Â°
 %Dominio de la funcion ..............
 x = 0:1:15;
 %Regla de correspondencia
@@ -45,7 +45,7 @@ legend(" Funcion Inyectiva");
 
 
 syms v
-#Ejercicio 3°
+#Ejercicio 3Â°
 %Dominio de la funcion ..............
 v = -30:1:30;
 %Regla de correspondencia
@@ -58,7 +58,7 @@ title("Funcion Trigonometrica -c(v)=sen(v)");
 legend("Funcion Subrayectiva");
 
 syms x
-#Ejercicio 4°
+#Ejercicio 4Â°
 %Dominio de la funcion ..............
 x = -24:1:24;
 %Regla de correspondencia
@@ -71,7 +71,7 @@ title(" Funcion Trigonometrica -h(x)=csc(x) ");
 legend(" Funcion Subrayectiva");
 
 syms x
-#Ejercicio 5°
+#Ejercicio 5Â°
 %Dominio de la funcion ..............
 x = -20:0.1:20;
 %Regla de correspondencia
@@ -86,7 +86,7 @@ legend("Funcion Inyectiva ");
 
 
 syms x
-#Ejercico 6°
+#Ejercico 6Â°
 %Dominio de la funcion ..............
 x = -50:1:50;
 %Regla de correspondencia
@@ -100,7 +100,7 @@ legend("Funcion  Subrayectiva");
 
 
 syms x
-#Ejercicio 7°
+#Ejercicio 7Â°
 %Dominio de la funcion ..............
 x = -10:0.1:10;
 %Regla de correspondencia
@@ -114,7 +114,7 @@ legend("Funcion Inyectiva ");
 
 
 syms x
-#Ejercicio 8°
+#Ejercicio 8Â°
 %Dominio de la funcion ..............
 x = 0:0.1:20;
 %Regla de correspondencia
@@ -128,7 +128,7 @@ legend("Funcion Biyectiva ");
 
 
 syms x
-#Ejercico 9°
+#Ejercico 9Â°
 %Dominio de la funcion ..............
 x = -50:1:50;
 %Regla de correspondencia
@@ -142,7 +142,7 @@ legend(" Funcion Subrayectiva ");
 
 
 syms x
-#Ejercicio 10°
+#Ejercicio 10Â°
 %Dominio de la funcion ..............
 x = -20:1:20;
 %Regla de correspondencia
@@ -156,7 +156,7 @@ legend(" Funcion Suprayectiva");
 
 
 syms x
-#Ejercicio 11°
+#Ejercicio 11Â°
 %Dominio de la funcion ..............Falta
 x = -50:1:50;
 %Regla de correspondencia
@@ -171,7 +171,7 @@ legend("Funcion Inyectiva ");
 
 
 syms x
-#Ejercicio 12°
+#Ejercicio 12Â°
 %Dominio de la funcion ..............
 x = -50:1:50;
 %Regla de correspondencia
@@ -186,7 +186,7 @@ legend("Funcion Subrayectiva ");
 
 
 syms x
-#Ejercicio 13°
+#Ejercicio 13Â°
 %Dominio de la funcion .............
 x = -10:1:10;
 %Regla de correspondencia
@@ -200,7 +200,7 @@ legend(" Funcion Inyectiva ");
 
 
 syms x
-#Ejercicio 14°
+#Ejercicio 14Â°
 %Dominio de la funcion ..............
 x = 0:0.1:10;
 %Regla de correspondencia
@@ -214,7 +214,7 @@ legend("Funcion Biyectiva");
 
 
 syms x
-#Ejercicio 15°
+#Ejercicio 15Â°
 %Dominio de la funcion ..............
 x = -50:1:50;
 %Regla de correspondencia
@@ -228,7 +228,7 @@ legend(" Funcion Subrayectiva");
 
 
 syms x
-#Ejercicio 16°
+#Ejercicio 16Â°
 %Dominio de la funcion ..............
 x = -10:0.1:10;
 %Regla de correspondencia
@@ -242,7 +242,7 @@ legend("Funcion Subrayectiva ");
 
 
 syms x
-#Ejercicio 17°
+#Ejercicio 17Â°
 %Dominio de la funcion ..............
 x = -15:1:15;
 %Regla de correspondencia
@@ -256,7 +256,7 @@ legend("Funcion  Inyectiva ");
 
 
 syms x
-#Ejercicio 18°
+#Ejercicio 18Â°
 %Dominio de la funcion ..............
 x = -50:1:50;
 %Regla de correspondencia
